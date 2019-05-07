@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="af9bac15db11330087067de03c9619e5" sys_domain="global" table="x_58872_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>cledoux</sys_created_by>
+            <sys_created_on>2019-05-07 18:28:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e79bec15db11330087067de03c9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">af9bac15db11330087067de03c9619e5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="Default view">0fec27bcdbd1330087067de03c9619e3</sys_ui_section>
+            <sys_updated_by>cledoux</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:28:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>cledoux</sys_created_by>
+            <sys_created_on>2019-05-07 18:28:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e39bec15db11330087067de03c9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">af9bac15db11330087067de03c9619e5</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">eb9bac15db11330087067de03c9619e4</sys_ui_section>
+            <sys_updated_by>cledoux</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:28:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>cledoux</sys_created_by>
+            <sys_created_on>2019-05-07 18:31:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d5ce455db11330087067de03c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">af9bac15db11330087067de03c9619e5</sys_ui_form>
+            <sys_ui_section caption="Ststistics" display_value="Ststistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">d15ce455db11330087067de03c961916</sys_ui_section>
+            <sys_updated_by>cledoux</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:31:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>cledoux</sys_created_by>
+            <sys_created_on>2019-05-07 18:28:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af9bac15db11330087067de03c9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_af9bac15db11330087067de03c9619e5</sys_update_name>
+            <sys_updated_by>cledoux</sys_updated_by>
+            <sys_updated_on>2019-05-07 18:28:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
